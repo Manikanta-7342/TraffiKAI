@@ -33,8 +33,8 @@ GUI:
 https://user-images.githubusercontent.com/80829447/205130444-28d5a190-54b9-424e-b6b2-5154ea2337d0.mp4
 
 Collaborators:  
-Mani Kanta: [https://github.com/Manikanta-7342](url)
-Akhil: [https://github.com/Akhil5347](url)
+Mani Kanta: [https://github.com/Manikanta-7342](url)  
+Akhil: [https://github.com/Akhil5347](url)  
 Shreyas: [https://github.com/ShreyasKuntnal](url)
 
 
