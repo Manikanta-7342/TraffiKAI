@@ -1,7 +1,9 @@
 # TraffiKAI
 
 A-EYE on ROADS!
-An AI & ML solution to solve some of the basic but most important traffic problems in day to day life.
+An AI & ML solution to solve some of the basic but most important traffic problems in day to day life.  
+
+Youtube Video Link: https://youtu.be/Gtj8o2TuxGY
 
 Problem Statement:- The increasing number of vehicles in cities can cause high volume of traffic, and implies that traffic congestion has become more critical nowadays. In addition to that, fatalities due to traffic delays of emergency vehicles such as ambulance & fire brigade is a huge problem. In daily life, we often see that emergency vehicles face difficulty in passing through traffic.
 
@@ -31,6 +33,23 @@ GUI:
 
 
 https://user-images.githubusercontent.com/80829447/205130444-28d5a190-54b9-424e-b6b2-5154ea2337d0.mp4
+
+Steps to run this project:  
+STEP 1: Download the models and the weights from the drive link provided below.  
+STEP 2: Clone the GitHub repository.  
+STEP 3: Run the code provided below in the terminal of the project folder.
+
+Install the requirements:
+```
+pip install -r requirements.txt
+```
+
+Run the app:
+```
+streamlit run app.py
+```
+
+Drive Link: https://drive.google.com/drive/folders/1TAgqHR8HnlVbFOhKwOagTckX0T06pOVv?usp=sharing 
 
 Collaborators:  
 Mani Kanta: [https://github.com/Manikanta-7342](url)  
